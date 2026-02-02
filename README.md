@@ -86,8 +86,3 @@ This project follows the instruction of not using CSS
 Only basic inline styling is used for table borders
 
 Focus is on HTML structure, not visual design
-
-Author
-
-Arshan Jada
-Mumbai, India
