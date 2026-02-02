@@ -46,10 +46,12 @@ HTML5 only
 (No CSS framework, no JavaScript, no libraries)
 
 **Project Structure**
+```bash
 /ccwdca_html_resume_page
 │
 ├── index.html
 └── README.md
+```
 
 **How to Run the Project**
 
