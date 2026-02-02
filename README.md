@@ -1,4 +1,3 @@
-# ccwdca_html_resume_page
 **Single Page Resume Website (HTML Only)**
 
 **Overview**
